@@ -37,5 +37,5 @@ During each phase of the test, ensure that the output signals behave as defined 
  
 Step 3: Deliverables 
  
-To turn in your lab code, submit all your code as part of your homework pdf file. You can copy and paste the code into a word processor and then add it to your homework pdf. You also need to submit the waveform. You can take a screenshot and add it to your homework file. 
+To turn in your lab code, submit all your code as part of your homework pdf file. You can copy and paste the code into a word processor and then add it to your homework pdf. You also need to submit the waveform. You can take a screenshot and add it to your homework file. .
   

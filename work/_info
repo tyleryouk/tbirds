@@ -1,0 +1,87 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/HW10Lab
+vtbird_fsm
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+DXx4 work 17 tbird_fsm_sv_unit 0 22 1fF]cKMmzJUB0Sl3WPFR00
+Z1 !s110 1650127579
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 :8J5SE9?_Z]_ZV]ad<`hD0
+IW9Y>>2ndPjOOzCQ>8eocm2
+!s105 tbird_fsm_sv_unit
+S1
+Z3 dC:/intelFPGA/HW11Lab
+Z4 w1650127577
+Z5 8C:/intelFPGA/HW11Lab/tbird_fsm.sv
+Z6 FC:/intelFPGA/HW11Lab/tbird_fsm.sv
+!i122 1
+L0 12 74
+Z7 OV;L;2020.1;71
+31
+Z8 !s108 1650127579.000000
+Z9 !s107 C:/intelFPGA/HW11Lab/tbird_fsm.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/HW11Lab/tbird_fsm.sv|
+!i113 1
+Z11 o-work work -sv
+Z12 tCvgOpt 0
+Xtbird_fsm_sv_unit
+R0
+R1
+V1fF]cKMmzJUB0Sl3WPFR00
+r1
+!s85 0
+!i10b 1
+!s100 EbM8<l0UmH<C<QOFU^[Zd0
+I1fF]cKMmzJUB0Sl3WPFR00
+!i103 1
+S1
+R3
+R4
+R5
+R6
+!i122 1
+L0 1 0
+R7
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtestbench_hw8
+R0
+R1
+!i10b 1
+!s100 l8OE_494X`97;j4AJkTck2
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+II6a];ZJKC2YKk48Yf3WM`1
+R2
+S1
+R3
+w1650126503
+8C:/intelFPGA/HW11Lab/testbench_hw8.sv
+FC:/intelFPGA/HW11Lab/testbench_hw8.sv
+!i122 2
+L0 1 62
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/HW11Lab/testbench_hw8.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/intelFPGA/HW11Lab/testbench_hw8.sv|
+!i113 1
+R11
+R12

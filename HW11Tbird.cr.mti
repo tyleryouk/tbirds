@@ -1,0 +1,16 @@
+C:/intelFPGA/HW11Lab/tbird_fsm.sv {1 {vlog -work work -sv -stats=none C:/intelFPGA/HW11Lab/tbird_fsm.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package tbird_fsm_sv_unit
+-- Compiling module tbird_fsm
+
+Top level modules:
+	tbird_fsm
+
+} {} {}} C:/intelFPGA/HW11Lab/testbench_hw8.sv {1 {vlog -work work -sv -stats=none C:/intelFPGA/HW11Lab/testbench_hw8.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_hw8
+
+Top level modules:
+	testbench_hw8
+
+} {} {}}
